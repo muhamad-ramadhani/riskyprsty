@@ -9,11 +9,10 @@
 
 ___
 ___
-
-## **About Me**
 ___
+## **About Me**
 
-_Im not crying because you trust me im fine_
+_Im not crying because you, trust me im fine_
 
 ## **Stats**
 ![Risky Prsty's github stats](https://github-readme-stats.vercel.app/api?username=riskyprsty&theme=blueberry&show_icons=true)
