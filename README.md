@@ -12,9 +12,12 @@ ___
 ___
 ## **About Me**
 
-_Im not crying because you, trust me im fine_
+_Just 16 years old noob_
+_Who met the internet 10 years ago and found many friends here, a world without borders and oppression_
 
 ## **Stats**
 ![Risky Prsty's github stats](https://github-readme-stats.vercel.app/api?username=riskyprsty&theme=blueberry&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riskyprsty&layout=compact&theme=radical)](https://github.com/riskyprsty)
+
+## **Eru belong to me**
