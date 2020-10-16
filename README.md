@@ -13,6 +13,7 @@ ___
 ## **About Me**
 
 _Just 16 years old noob_
+<br>
 _Who met the internet 10 years ago and found many friends here, a world without borders and oppression_
 
 ## **Stats**
@@ -20,4 +21,4 @@ _Who met the internet 10 years ago and found many friends here, a world without 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riskyprsty&layout=compact&theme=radical)](https://github.com/riskyprsty)
 
-## **Eru belong to me**
+## **Eru belongs to me**
